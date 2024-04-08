@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geoffroy</h1>
-<h3 align="center">A student in Frontend development from France</h3>
+<h3 align="center">An enthusiast web development student from France :)</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
