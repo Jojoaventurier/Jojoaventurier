@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
-- 📫 How to reach me : Here :)
+- 📫 How to reach me : Feel free to message me here :)
 
 
 
