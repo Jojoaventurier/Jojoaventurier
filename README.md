@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geoffroy</h1>
 <h3 align="center">An enthusiast web development student from France :)</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JS**
+- 🌱 I’m currently learning **HTML, CSS, JS and PHP**
 
 - 📫 How to reach me : Feel free to message me here :)
 
