@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev ) jojoaventurier <br>
 
 
-<p align="center"> For work :
+<p> For work :
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,php" />
   </a>
