@@ -5,8 +5,12 @@
 
 - 📫 How to reach me : Feel free to message me here :)
 
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,php" />
+  </a>
+</p>
 <!---
 Jojoaventurier/Jojoaventurier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
