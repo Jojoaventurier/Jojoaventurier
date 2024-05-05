@@ -5,11 +5,11 @@
 
 - 📫 How to reach me : Feel free to message me here :)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev ) jojoaventurier <br>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev ) www.linkedin.com/in/geoffroy-maurutto-8332a119b <br>
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev ) jojoaventurier <br>
 
 
-<p align="center">
+<p align="center"> For work :
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,php" />
   </a>
