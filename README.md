@@ -5,8 +5,8 @@
 
 - 📫 How to reach me : Feel free to message me here :)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev )_________ www.linkedin.com/in/geoffroy-maurutto-8332a119b <br>
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev )__________ jojoaventurier <br>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev )__ www.linkedin.com/in/geoffroy-maurutto-8332a119b <br>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev )__ jojoaventurier <br>
 
 
 <p>
