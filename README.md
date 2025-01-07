@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/66ddd3dc-e74d-4fdf-88e1-1905656b88fd)
+
+![giuthub 2](https://github.com/user-attachments/assets/f923a77f-7a33-4e76-adcd-011bf5144c28)
 
 <!---
 Jojoaventurier/Jojoaventurier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
